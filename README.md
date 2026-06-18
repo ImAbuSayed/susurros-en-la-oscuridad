@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-en-la-oscuridad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Susurros en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-en-la-oscuridad/) |
+| **Get License** | [Request Licensing for Susurros en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-en-la-oscuridad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la luna sabe lo que hicimos en la oscuridad
+> Tus ojos brillan más que las luces de la ciudad
+> We got that fire, quemando toda la frialdad
+> Susurros en mi oído, perdiendo la gravedad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
