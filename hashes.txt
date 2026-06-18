@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurros en la oscuridad
+
+This log tracks the cryptographic history and versioning for the song **Susurros en la oscuridad** (susurros-en-la-oscuridad).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:28:39.806800 | `v1` | `a9bf86b020447600e1db0b0678ce19a73abb351aeb1f6864f038905404a3783b` | `f25f7c6bc55f8622fdd0918d84af679e69cde66610020bfe77397f08bb05ae7e` | `2026-06-18_susurros-en-la-oscuridad-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
