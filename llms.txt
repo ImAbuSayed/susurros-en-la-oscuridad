@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-en-la-oscuridad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Susurros en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-en-la-oscuridad/) |
+| **Get License** | [Obtain a Music License for Susurros en la oscuridad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-en-la-oscuridad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3600)
 
 ---
 
